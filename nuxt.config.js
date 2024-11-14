@@ -3,6 +3,12 @@ export default {
   bridge: true,
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  router: {
+    base: '/nuxt-test-pages/docs/'
+  },
+  generate: {
+    dir: 'docs'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'nuxt-test',
