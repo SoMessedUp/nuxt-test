@@ -1,19 +1,19 @@
 <template>
   <header class="header">
-    <img src="/img/logo.png" alt="Logo" class="logo">
+    <img src="img/logo.png" alt="Logo" class="logo">
     <div class="wrapper">
       <div class="navigation">
         <div class="navigation__element navigation__element-search">
-          <img src="/img/Search.svg" alt="" class="navigation__element-img">
+          <img src="img/Search.svg" alt="" class="navigation__element-img">
         </div>
         <div class="navigation__element navigation__element-favorite">
-          <img src="/img/Favorite.svg" alt="" class="navigation__element-img">
+          <img src="img/Favorite.svg" alt="" class="navigation__element-img">
         </div>
         <div class="navigation__element navigation__element-user">
-          <img src="/img/User.svg" alt="" class="navigation__element-img">
+          <img src="img/User.svg" alt="" class="navigation__element-img">
         </div>
         <div class="navigation__element navigation__element-basket">
-          <img src="/img/Basket.svg" alt="" class="navigation__element-img">
+          <img src="img/Basket.svg" alt="" class="navigation__element-img">
         </div>
       </div>
     </div>

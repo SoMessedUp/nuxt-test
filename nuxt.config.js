@@ -4,7 +4,7 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: '/nuxt-test-pages/docs/'
+    base: '/nuxt-test/'
   },
   generate: {
     dir: 'docs'

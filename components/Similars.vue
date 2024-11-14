@@ -6,23 +6,23 @@
             </div>
             <div class="similars__cards-row">
                 <Card
-                    imageSrc="/img/card__img1.jpg"
+                    imageSrc="img/card__img1.jpg"
                     title="ПЛАТЬЕ С V-ОБРАЗНЫМ ВЫРЕЗОМ, БЕЛЫЙ"
                     priceActual="14 900"
                     priceBefore="8 000"
                 />
                 <Card
-                    imageSrc="/img/card__img2.jpg"
+                    imageSrc="img/card__img2.jpg"
                     title="ЖАКЕТ ДВУБОРТНЫЙ, СЕРО-ГОЛУБОЙ"
                     priceActual="8 900"
                 />
                 <Card
-                    imageSrc="/img/card__img3.jpg"
+                    imageSrc="img/card__img3.jpg"
                     title="ПЛАТЬЕ МАКСИ С ЯРУСАМИ, БЕЛЫЙ"
                     priceActual="10 500"
                 />
                 <Card
-                    imageSrc="/img/card__img4.jpg"
+                    imageSrc="img/card__img4.jpg"
                     title="КОМБИНЕЗОН СО СТОЙКОЙ, ЧёРНЫЙ<"
                     priceActual="9 500"
                 /> 
