@@ -8,13 +8,13 @@
           <div class="swiper product__swiper-main product__image">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
-                <img src="img/product__img1.jpg" alt="Slide 1" />
+                <img src="/img/product__img1.jpg" alt="Slide 1" />
               </div>
               <div class="swiper-slide">
-                <img src="img/product__img2.jpg" alt="Slide 2" />
+                <img src="/img/product__img2.jpg" alt="Slide 2" />
               </div>
               <div class="swiper-slide">
-                <img src="img/product__img3.jpg" alt="Slide 3" />
+                <img src="/img/product__img3.jpg" alt="Slide 3" />
               </div>
               <div class="swiper-pagination product__swiper-main-pagination"></div>
             </div>
@@ -23,13 +23,13 @@
           <div class="swiper product__swiper-additional">
             <div class="swiper-wrapper">
               <div class="swiper-slide product__image-mini">
-                <img src="img/product__img1.jpg" alt="Thumbnail 1" />
+                <img src="/img/product__img1.jpg" alt="Thumbnail 1" />
               </div>
               <div class="swiper-slide product__image-mini">
-                <img src="img/product__img2.jpg" alt="Thumbnail 2" />
+                <img src="/img/product__img2.jpg" alt="Thumbnail 2" />
               </div>
               <div class="swiper-slide product__image-mini">
-                <img src="img/product__img3.jpg" alt="Thumbnail 3" />
+                <img src="/img/product__img3.jpg" alt="Thumbnail 3" />
               </div>
             </div>
           </div>
